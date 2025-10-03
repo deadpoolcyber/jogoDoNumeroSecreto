@@ -1,5 +1,5 @@
-### Olá👋, 🎮 Jogo do Número Secreto
-#### um mini game desenvolvido em **JavaScript, HTML e CSS** no curso da [Alura](https://www.alura.com.br/).   O objetivo é adivinhar o número secreto sorteado aleatoriamente pelo sistema.
+### Olá 👋, 🎮 Jogo do Número Secreto
+#### m mini game desenvolvido em **JavaScript, HTML e CSS** no curso da [Alura](https://www.alura.com.br/).   O objetivo é adivinhar o número secreto sorteado aleatoriamente pelo sistema.
 ![m mini game desenvolvido em **JavaScript, HTML e CSS** no curso da [Alura](https://www.alura.com.br/).   O objetivo é adivinhar o número secreto sorteado aleatoriamente pelo sistema.](https://github.com/deadpoolcyber/jogoDoNumeroSecreto/blob/main/img/banner.png)
 
 ## 🚀 Funcionalidades
@@ -29,6 +29,3 @@ Skills: HTML / JS /  CSS
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/deadpoolcyber/jogoDoNumeroSecreto/tree/main)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/david-brasil-9980a4103//)  
 
 <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> 
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=https://github.com/deadpoolcyber/jogoDoNumeroSecreto/tree/main&show_icons=true)  
-
