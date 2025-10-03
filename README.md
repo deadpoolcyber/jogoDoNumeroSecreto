@@ -1,5 +1,5 @@
-### Hello👋, 🎮 Jogo do Número Secreto
-#### m mini game desenvolvido em **JavaScript, HTML e CSS** no curso da [Alura](https://www.alura.com.br/).   O objetivo é adivinhar o número secreto sorteado aleatoriamente pelo sistema.
+### Olá👋, 🎮 Jogo do Número Secreto
+#### um mini game desenvolvido em **JavaScript, HTML e CSS** no curso da [Alura](https://www.alura.com.br/).   O objetivo é adivinhar o número secreto sorteado aleatoriamente pelo sistema.
 ![m mini game desenvolvido em **JavaScript, HTML e CSS** no curso da [Alura](https://www.alura.com.br/).   O objetivo é adivinhar o número secreto sorteado aleatoriamente pelo sistema.](https://github.com/deadpoolcyber/jogoDoNumeroSecreto/blob/main/img/banner.png)
 
 ## 🚀 Funcionalidades
